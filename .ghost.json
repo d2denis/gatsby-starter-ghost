@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://dudenisu.herokuapp.com",
+    "contentApiKey": "602282f13bb0870817461332c9"
+  },
+  "production": {
+    "apiUrl": "https://ghost.nishantdania.com",
+    "contentApiKey": "ed7201c0616825157bb1798d8e"
+  }
+}
