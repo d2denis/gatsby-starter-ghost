@@ -1,6 +1,6 @@
 {
   "production": {
-    "apiUrl": "https://ghost.nathangathright.com",
-    "contentApiKey": "accf857906926b1d7a5d89bb47"
+    "apiUrl": "https://d2deni.herokuapp.com",
+    "contentApiKey": "58223505750ac25604e436fd9e135d0d3f1411c697f3ce852e7cfb9db00e1992f040acc5eb5ed9557114714d0ed33904e55214003cd5423850df68bbbe11a494"
   }
 }
