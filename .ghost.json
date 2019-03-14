@@ -1,0 +1,6 @@
+{
+  "production": {
+    "apiUrl": "https://ghost.nathangathright.com",
+    "contentApiKey": "accf857906926b1d7a5d89bb47"
+  }
+}
