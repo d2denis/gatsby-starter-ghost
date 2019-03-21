@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 
 import { Layout } from '../components/common'
 import { MetaData } from '../components/common/meta'
-
+import "katex/dist/katex.min.css"
 /**
 * Single page (/:slug)
 *
