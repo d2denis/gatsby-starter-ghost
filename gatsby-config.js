@@ -62,6 +62,14 @@ module.exports = {
                     ? ghostConfig.development
                     : ghostConfig.production,
         },
+        {
+          resolve: `gatsby-transformer-remark`,
+          options: {
+            plugins: [
+              `gatsby-remark-mathjax`,
+            ],
+          },
+        },
         /**
          *  Utility Plugins
          */
