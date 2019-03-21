@@ -4,7 +4,7 @@
     "contentApiKey": "602282f13bb0870817461332c9"
   },
 "production": {
-    "apiUrl": "https://d2denis.herokuapp.com",
-    "contentApiKey": "58223505750ac25604e436fd9e135d0d3f1411c697f3ce852e7cfb9db00e1992f040acc5eb5ed9557114714d0ed33904e55214003cd5423850df68bbbe11a494"
+    "apiUrl": "https://dudenisu.herokuapp.com",
+    "contentApiKey": "602282f13bb0870817461332c9"
   }
 }
